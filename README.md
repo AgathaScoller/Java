@@ -1,7 +1,11 @@
-# JAVA
+# JAVA ️
 
-Repository focused on studying and implementing concepts in Java.  
-Includes exercises, small applications, and experiments designed to improve understanding of object-oriented programming, data structures, and algorithmic logic.
+![Java](https://img.shields.io/badge/Java-21%2B-blue?style=flat-square)
+![Build Tools](https://img.shields.io/badge/Build-Maven%20%7C%20Gradle-ff69b4?style=flat-square)
+![IDE](https://img.shields.io/badge/IDE-IntelliJ%20IDEA%20%7C%20Eclipse-9cf?style=flat-square)
+
+Repository focused on **studying and implementing concepts in Java**.  
+Includes exercises, small applications, and experiments designed to improve understanding of **object-oriented programming, data structures, and algorithmic logic**.
 
 ---
 
@@ -17,9 +21,9 @@ Includes exercises, small applications, and experiments designed to improve unde
 
 ## OBJECTIVES
 
-- Develop strong command of Java syntax and OOP principles  
+- Develop strong command of **Java syntax and OOP principles**  
 - Practice problem-solving using efficient data structures and algorithms  
-- Create a reliable foundation for backend, desktop, and enterprise applications  
+- Create a reliable foundation for **backend, desktop, and enterprise applications**  
 
 ---
 
@@ -34,6 +38,6 @@ Includes exercises, small applications, and experiments designed to improve unde
 
 ## CODE STYLE
 
-Code adheres to standard Java conventions, emphasizing clarity, modularity, and maintainability.  
-Comments are concise and technical.  
-Packages and classes follow consistent naming patterns aligned with Java best practices.  
+- Code adheres to **standard Java conventions**, emphasizing clarity, modularity, and maintainability  
+- Comments are concise and technical  
+- Packages and classes follow consistent naming patterns aligned with **Java best practices**
